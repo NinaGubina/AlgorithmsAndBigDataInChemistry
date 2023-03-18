@@ -128,3 +128,6 @@ dmypy.json
 # Pyre type checker
 .pyre/
 db_with_descriptors.csv
+db_descriptors_Mordred.csv
+db_descriptors_Mordred.xlsx
+db_descriptors_RDKit.csv
